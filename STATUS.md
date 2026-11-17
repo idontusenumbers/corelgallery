@@ -1,4 +1,4 @@
-# Clipart Gallery (Corel Gallery replacement) — status notes
+# Corel Gallery — status notes
 
 Last updated 2026-11-17. Development notes: design decisions, measurements and known limits.
 

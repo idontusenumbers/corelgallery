@@ -1,8 +1,10 @@
-# Clipart Gallery (Corel Gallery replacement)
+# Corel Gallery
+
+A modern replacement for the browser that came with Corel Gallery 1,000,000 for Windows 95. An unofficial fan project, not affiliated with or endorsed by Corel.
 
 Vibe coded with Claude.
 
-![Clipart Gallery searching for "test"](docs/screenshot.png)
+![Corel Gallery searching for "test"](docs/screenshot.png)
 
 Discs can be downloaded from https://archive.org/details/corel_gallery_1000000_win95.
 

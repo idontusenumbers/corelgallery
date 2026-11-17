@@ -71,7 +71,7 @@ public final class GalleryFrame extends JFrame {
     private final List<ClipartItem> todo = new ArrayList<>(), past = new ArrayList<>();
 
     public GalleryFrame(Catalog catalog) {
-        super("Clipart Gallery");
+        super("Corel Gallery");
         this.catalog = catalog;
         this.thumbs = new ThumbnailCache(catalog, THUMB_DEFAULT, SwingUtilities::invokeLater, this::repaintCell);
         setDefaultCloseOperation(EXIT_ON_CLOSE);

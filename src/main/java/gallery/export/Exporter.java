@@ -326,7 +326,7 @@ public final class Exporter {
         StringBuilder sb = new StringBuilder();
         sb.append("%!PS-Adobe-3.0 EPSF-3.0\n%%BoundingBox: 0 0 ").append(pw).append(' ').append(ph).append('\n')
                 .append("%%HiResBoundingBox: 0 0 ").append(num(b.getWidth() * s)).append(' ').append(num(b.getHeight() * s)).append('\n')
-                .append("%%LanguageLevel: 3\n%%Creator: Clipart Gallery\n%%EndComments\n");
+                .append("%%LanguageLevel: 3\n%%Creator: Corel Gallery\n%%EndComments\n");
         sb.append("gsave\n[").append(num(s)).append(" 0 0 ").append(num(-s)).append(' ').append(num(-b.getX() * s)).append(' ')
                 .append(num((b.getY() + b.getHeight()) * s)).append("] concat\n1 setlinejoin 1 setlinecap\n");
         for (VectorDrawing.Item it : v.items()) {
