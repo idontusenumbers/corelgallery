@@ -2,6 +2,8 @@
 
 Vibe coded with Claude.
 
+![Clipart Gallery searching for "test"](docs/screenshot.png)
+
 Discs can be downloaded from https://archive.org/details/corel_gallery_1000000_win95.
 
 Pure Java 17+ / Swing, no dependencies.
